@@ -1,38 +1,21 @@
-## Replace data with your own
+# Personal Porfolio App
 
-To change the all data that appears in the portfolio, just open the data.ts file `./data/data.ts` and edit the data object. All components import the data and use it to display their contents.
+## Welcome! 👋
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This is my personal portfolio using Nextjs, Typescript, Modern UX/UI and more.
 
-## Getting Started
+### This project contains: 
 
-First, run the development server:
+. Responsive interface desing using\
+⋅ Custom components and dinamic data \
+⋅ Best practices and folder structure \
+⋅ Awesome interface components \
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Demo: https://andres-pardo.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+And many more.
+I hope you like it.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+![capture](https://user-images.githubusercontent.com/45151760/188288755-93ffca34-7ffa-414a-8fe0-b6d0a791b750.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**I love to code!** 🚀
